@@ -1,0 +1,35 @@
+{
+  "expo": {
+    "name": "Questa",
+    "slug": "Questa",
+    "version": "1.0.0",
+    "orientation": "default",
+    "icon": "./assets/questaIcon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#2B50EC"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.rednas14.Questa"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/questaIcon.png",
+        "backgroundColor": "#2B50EC"
+      },
+      "package": "com.rednas14.Questa"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "description": ""
+  }
+}
